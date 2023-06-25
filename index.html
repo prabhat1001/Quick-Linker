@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>QuickLinker</title>
+</head>
+<body>
+    <div id="content">
+        <h1>Quick <span>Linker</span></h1>
+        <form class="link-form">
+            <input 
+                type="text" 
+                id="title" 
+                placeholder="Title"
+                required
+            >
+            <input 
+                type="url" 
+                id="url" 
+                placeholder="Paste the link"
+                required
+            >
+            <button id="add">Add</button>
+        </form>
+        <h2>- - Links - -</h2>
+        <div id="links-cont">
+            <ul id="link-list"></ul>
+        </div>
+    </div>
+
+  <!-- <script src="script.js"></script> -->
+  <script src="index.js"></script>
+</body>
+</html>
