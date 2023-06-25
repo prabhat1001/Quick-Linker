@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Linker",
+  "version": "1.0.1",
+    "description": "A Chrome extension designed to efficiently organize and present frequently used links for streamlined management during the process of completing job applications.",
+    "permissions": ["clipboardWrite", "activeTab"],
+    "action":{
+      "default_popup": "index.html",
+      "default_title": "Latest Covid Report"
+  },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
