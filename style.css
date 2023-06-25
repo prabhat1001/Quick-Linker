@@ -151,6 +151,7 @@ input:focus{
   color: #f8f9fa;
   text-transform: capitalize;
   transition: all 0.2s ease-in-out;
+  margin-bottom: 40px;
 }
 
 .copy-btn:hover{
