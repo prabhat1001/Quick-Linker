@@ -64,4 +64,4 @@ Quick Linker is released under the [MIT License](LICENSE.txt).
 <br/>
 
 ---
-Thank you for choosing Quick Linker! We hope this extension simplifies your job application process and makes it more efficient. Happy job hunting!
+Thank you for choosing Quick Linker! I hope this extension simplifies your job application process and makes it more efficient. Happy job hunting!
