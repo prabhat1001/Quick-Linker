@@ -54,6 +54,7 @@ Follow these steps to install Quick Linker on your Chrome browser:
 
 If you encounter any issues, have suggestions for improvement, or need support, please feel free to reach out to me. I value your feedback and am dedicated to enhancing the Quick Linker experience.
 
+Email: prabhatsaraswat24@gmail.com
 <br/>
 
 ## License
