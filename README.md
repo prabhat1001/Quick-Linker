@@ -57,11 +57,5 @@ If you encounter any issues, have suggestions for improvement, or need support, 
 Email: prabhatsaraswat24@gmail.com
 <br/>
 
-## License
-
-Quick Linker is released under the [MIT License](LICENSE.txt).
-
-<br/>
-
 ---
 Thank you for choosing Quick Linker! I hope this extension simplifies your job application process and makes it more efficient. Happy job hunting!
